@@ -1,0 +1,24 @@
+Please fill in your answers to the knowledge quiz below.
+
+1) C 
+2) D
+3) A 
+4) A 
+5) B
+6) B
+7) D 
+8) A 
+9) C
+10) B 
+11) C
+12) C
+13) signature
+14) Git is a program, whereas Github is a website 
+15) My answer: 
+
+In C, you reserve a spot on the shelf for a box (the variable). The reserved space is a fixed size and a fixed shape. You can only put things that would fit in that box on that shelf. The shelf and the box can move, but you’ve reserved space for that specific shape/size box. In Python, you print a label in velcro. You stick it on a box (any box). If someone changes the box, wants a new box, etc, you just move that velcro label to a new box. And you look for items by the velcro, but there’s a handy dandy card catalog (memory index / locator) that tells you exactly where that box is at the given moment you ask. In C, it’s more inconvenient if someone wants to move or change your box. 
+
+The answer you probably want: 
+
+“In C, variables are classic variables in that they have a fixed place in memory. In Python, a “variable” is not actually a variable. It is an identifier or really a reference type. It’s a name that points to a spot in memory, but the name can move.” 
+
